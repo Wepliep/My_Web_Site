@@ -139,6 +139,7 @@ export default function HomePage() {
                   </div>
                   <ChevronRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
                 </div>
+              </Link>
 
               <Link href="/htb" className="nav-card group md:col-span-2 lg:col-span-1">
                 <div className="flex flex-col items-center justify-center text-center h-full">
