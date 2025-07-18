@@ -88,10 +88,10 @@ export default function AboutPage() {
                 </div>
 
                 <div className="space-y-4">
-                  <h2 className="text-xl font-semibold text-green-300">$ whoami --verbose</h2>
+                  <h2 className="text-xl font-semibold text-green-300">$ whoami</h2>
                   <div className="bg-black/30 border border-green-400/30 rounded p-4 space-y-3">
                     <p>
-                      <span className="text-green-300">Name:</span> Cybersecurity Enthusiast & Ethical Hacker
+                      <span className="text-green-300">Name:</span> Erkan ÇEKİÇ
                     </p>
                     <p>
                       <span className="text-green-300">Mission:</span> Securing the digital world, one vulnerability at
@@ -113,10 +113,10 @@ export default function AboutPage() {
                   <div className="space-y-3">
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
                       <div className="flex items-start justify-between mb-2">
-                        <h3 className="font-semibold text-green-300">Security Research & Bug Bounty</h3>
+                        <h3 className="font-semibold text-green-300">Penetration Tester Intern --- EMA Security LTD </h3>
                         <div className="flex items-center space-x-1 text-xs text-green-400/70">
                           <Calendar className="w-3 h-3" />
-                          <span>2022 - Present</span>
+                          <span>Jan 25 - May 25</span>
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
@@ -126,10 +126,10 @@ export default function AboutPage() {
                     </div>
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
                       <div className="flex items-start justify-between mb-2">
-                        <h3 className="font-semibold text-green-300">Penetration Testing</h3>
+                        <h3 className="font-semibold text-green-300">CTI Intern --- Brandefense</h3>
                         <div className="flex items-center space-x-1 text-xs text-green-400/70">
                           <Calendar className="w-3 h-3" />
-                          <span>2021 - Present</span>
+                          <span>Jul 24 - Oct 24</span>
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
@@ -139,10 +139,10 @@ export default function AboutPage() {
                     </div>
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
                       <div className="flex items-start justify-between mb-2">
-                        <h3 className="font-semibold text-green-300">Tool Development</h3>
+                        <h3 className="font-semibold text-green-300">Cyber Assurance Security Support Assistant --- GarantiBBVA Technology</h3>
                         <div className="flex items-center space-x-1 text-xs text-green-400/70">
                           <Calendar className="w-3 h-3" />
-                          <span>2020 - Present</span>
+                          <span>Jun 23 - Dec 23</span>
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
@@ -158,10 +158,10 @@ export default function AboutPage() {
                   <div className="space-y-3">
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
                       <div className="flex items-start justify-between mb-2">
-                        <h3 className="font-semibold text-green-300">Cybersecurity Mentor & Workshop Leader</h3>
+                        <h3 className="font-semibold text-green-300">Siber Gölge Podcast --- Publisher</h3>
                         <div className="flex items-center space-x-1 text-xs text-green-400/70">
                           <Calendar className="w-3 h-3" />
-                          <span>2023 - Present</span>
+                          <span>Present</span>
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
@@ -172,10 +172,10 @@ export default function AboutPage() {
                     </div>
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
                       <div className="flex items-start justify-between mb-2">
-                        <h3 className="font-semibold text-green-300">Open Source Security Contributor</h3>
+                        <h3 className="font-semibold text-green-300">HacktorX Cyber Security Portal --- Site Admin & Developer</h3>
                         <div className="flex items-center space-x-1 text-xs text-green-400/70">
                           <Calendar className="w-3 h-3" />
-                          <span>2022 - Present</span>
+                          <span>Present</span>
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
@@ -186,10 +186,10 @@ export default function AboutPage() {
                     </div>
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
                       <div className="flex items-start justify-between mb-2">
-                        <h3 className="font-semibold text-green-300">Security Awareness Advocate</h3>
+                        <h3 className="font-semibold text-green-300">Owasp Firat University Student Chapter --- Chapter Lead</h3>
                         <div className="flex items-center space-x-1 text-xs text-green-400/70">
                           <Calendar className="w-3 h-3" />
-                          <span>2021 - Present</span>
+                          <span>Present</span>
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
@@ -200,10 +200,10 @@ export default function AboutPage() {
                     </div>
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
                       <div className="flex items-start justify-between mb-2">
-                        <h3 className="font-semibold text-green-300">CTF Event Organizer</h3>
+                        <h3 className="font-semibold text-green-300">HackTheBox Firat University --- University Representative</h3>
                         <div className="flex items-center space-x-1 text-xs text-green-400/70">
                           <Calendar className="w-3 h-3" />
-                          <span>2020 - 2023</span>
+                          <span>Present</span>
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
@@ -222,11 +222,11 @@ export default function AboutPage() {
                       <div className="flex items-center justify-between mb-2">
                         <div className="flex items-center space-x-2">
                           <Award className="w-5 h-5 text-green-300 flex-shrink-0" />
-                          <h3 className="font-semibold text-green-300">Certified Ethical Hacker (CEH)</h3>
+                          <h3 className="font-semibold text-green-300">TurkTelekom Cyber Security Camp 2024</h3>
                         </div>
                         <div className="flex items-center space-x-1 text-xs text-green-400/70">
                           <Calendar className="w-4 h-4" />
-                          <span>2023</span>
+                          <span>2024</span>
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
@@ -238,11 +238,7 @@ export default function AboutPage() {
                       <div className="flex items-center justify-between mb-2">
                         <div className="flex items-center space-x-2">
                           <Award className="w-5 h-5 text-green-300 flex-shrink-0" />
-                          <h3 className="font-semibold text-green-300">CompTIA Security+</h3>
-                        </div>
-                        <div className="flex items-center space-x-1 text-xs text-green-400/70">
-                          <Calendar className="w-4 h-4" />
-                          <span>2022</span>
+                          <h3 className="font-semibold text-green-300">CyberWise WiseCamp</h3>
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
@@ -255,12 +251,8 @@ export default function AboutPage() {
                         <div className="flex items-center space-x-2">
                           <Award className="w-5 h-5 text-green-300 flex-shrink-0" />
                           <h3 className="font-semibold text-green-300">
-                            OSCP (Offensive Security Certified Professional)
+                            CISCO CyberOps Associate
                           </h3>
-                        </div>
-                        <div className="flex items-center space-x-1 text-xs text-green-400/70">
-                          <Calendar className="w-4 h-4" />
-                          <span>2024</span>
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
@@ -273,12 +265,36 @@ export default function AboutPage() {
                         <div className="flex items-center space-x-2">
                           <Award className="w-5 h-5 text-green-300 flex-shrink-0" />
                           <h3 className="font-semibold text-green-300">
-                            CISSP (Certified Information Systems Security Professional)
+                            CCNA v7: Introduction to Networks
                           </h3>
                         </div>
-                        <div className="flex items-center space-x-1 text-xs text-green-400/70">
-                          <Calendar className="w-4 h-4" />
-                          <span>2024</span>
+                      </div>
+                      <p className="text-sm text-green-400/70 mt-1">
+                        Advanced certification focusing on security architecture, engineering, and management. Currently
+                        preparing for examination with expected completion in Q2 2024.
+                      </p>
+                    </div>
+                    <div className="bg-black/30 border border-green-400/30 rounded p-4">
+                      <div className="flex items-center justify-between mb-2">
+                        <div className="flex items-center space-x-2">
+                          <Award className="w-5 h-5 text-green-300 flex-shrink-0" />
+                          <h3 className="font-semibold text-green-300">
+                            CISCO Introduction to Cybersecurity
+                          </h3>
+                        </div>
+                      </div>
+                      <p className="text-sm text-green-400/70 mt-1">
+                        Advanced certification focusing on security architecture, engineering, and management. Currently
+                        preparing for examination with expected completion in Q2 2024.
+                      </p>
+                    </div>
+                    <div className="bg-black/30 border border-green-400/30 rounded p-4">
+                      <div className="flex items-center justify-between mb-2">
+                        <div className="flex items-center space-x-2">
+                          <Award className="w-5 h-5 text-green-300 flex-shrink-0" />
+                          <h3 className="font-semibold text-green-300">
+                            NDG: Linux Unhatched
+                          </h3>
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
