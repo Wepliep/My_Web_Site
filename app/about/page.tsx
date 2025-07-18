@@ -138,8 +138,9 @@ export default function AboutPage() {
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
-                        Active bug bounty hunter with multiple CVEs discovered. Specialized in finding and responsibly
-                        disclosing security vulnerabilities in web applications and network infrastructure.
+                        I worked on vulnerable machine solutions focused on web and system security, documenting 
+                        each finding in the form of a pentest report. Throughout my internship, I analyzed and reported 
+                        various machines and different types of vulnerabilities.
                       </p>
                     </div>
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
@@ -151,8 +152,9 @@ export default function AboutPage() {
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
-                        Experienced in conducting comprehensive security assessments, from reconnaissance to
-                        post-exploitation. Proficient with industry-standard tools and methodologies.
+                        I have received training and conducted studies on threat analysis, threat intelligence 
+                        research, anonymous networks, the importance of OPSEC, CTI report generation techniques, 
+                        ransomware groups, deep web investigations, as well as news and target monitoring.
                       </p>
                     </div>
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
@@ -164,8 +166,9 @@ export default function AboutPage() {
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
-                        Creator of custom security tools and automation scripts. Passionate about developing solutions
-                        that make security testing more efficient and effective.
+                        I have worked on web automatic and manual web vulnerabilities. I have worked on pentest report 
+                        generation techniques, vulnerable machine solutions, vulnerability reporting, vulnerability 
+                        research, testing processes. I have done research on DAST and SAST processes.
                       </p>
                     </div>
                   </div>
