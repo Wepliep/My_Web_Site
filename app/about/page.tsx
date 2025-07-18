@@ -101,7 +101,7 @@ export default function AboutPage() {
                     </p>
                     <p className="flex items-center space-x-2">
                       <span className="text-green-300">E-Mail:</span>
-                      <span>{'erkan.cekc' + '@' + 'gmail.com'}</span>
+                      <span>{'erkan[dot]cekc' + '[at]' + 'gmail[dot]com'}</span>
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         className="h-4 w-4 text-green-400"
