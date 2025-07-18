@@ -177,9 +177,10 @@ export default function AboutPage() {
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
-                        Volunteer mentor for aspiring cybersecurity professionals. Conduct workshops on ethical hacking,
-                        secure coding practices, and career guidance. Active in local cybersecurity meetups and
-                        conferences.
+                        In each episode of <a href="https://open.spotify.com/show/0wJjOblI99y1vP1DAW27Dk" target="_blank" rel="noopener noreferrer" className="underline hover:text-green-300">Siber Gölge</a>{" "}, we discuss how cyber threats emerge, how to deal with them, and how to ensure 
+                        security in today's digital world. With interviews with expert guests and practical tips, 
+                        listeners gain awareness in the field of cyber security and learn how to protect their 
+                        digital assets.
                       </p>
                     </div>
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
