@@ -117,6 +117,12 @@ export default function AboutPage() {
                         />
                       </svg>
                     </p>
+                    <p>
+                      <span className="text-green-300">LinkedIn:</span> 
+                      <a href="https://www.linkedin.com/in/erkanckc0x0001/" target="_blank" rel="noopener noreferrer" className="underline hover:text-green-300">
+                          erkanckc0x0001
+                      </a>
+                    </p>
                   </div>
                 </div>
 
