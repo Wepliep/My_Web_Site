@@ -41,7 +41,7 @@ export const notesContent: Record<string, NoteContent> = {
           {
             type: "info",
             content:
-              "This information is for educational and authorized testing purposes only. Never attempt SQL injection on systems you don't own or lack explicit permission to test.",
+              "This inforefsdfsdfmation is for educational and authorized testing purposes only. Never attempt SQL injection on systems you don't own or lack explicit permission to test.",
           },
         ],
       },
