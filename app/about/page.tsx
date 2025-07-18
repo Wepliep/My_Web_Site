@@ -94,12 +94,10 @@ export default function AboutPage() {
                       <span className="text-green-300">Name:</span> Erkan ÇEKİÇ
                     </p>
                     <p>
-                      <span className="text-green-300">Mission:</span> Securing the digital world, one vulnerability at
-                      a time
+                      <span className="text-green-300">Education:</span> Firat Üniversity, Digital Forensic Engineering (2021 - 2025)
                     </p>
                     <p>
-                      <span className="text-green-300">Specialization:</span> Web Application Security, Network
-                      Penetration Testing, Malware Analysis
+                      <span className="text-green-300">Specialization:</span> Web Application Security, Bug Haunter
                     </p>
                     <p>
                       <span className="text-green-300">Philosophy:</span> "The best defense is understanding the
@@ -179,9 +177,11 @@ export default function AboutPage() {
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
-                        Active contributor to open source security projects and tools. Maintain security-focused
-                        repositories, review code for vulnerabilities, and contribute to community-driven security
-                        initiatives.
+                        <a href="https://hacktorx.com" target="_blank" rel="noopener noreferrer" className="underline hover:text-green-300">
+                          HacktorX
+                        </a>{" "}
+                        is a platform where we produce content and events such as cyber security competitions
+                        blogs, articles, cyber security trainings, cyber security chats.
                       </p>
                     </div>
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
@@ -193,9 +193,9 @@ export default function AboutPage() {
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
-                        Volunteer educator promoting cybersecurity awareness in schools and community organizations.
-                        Develop educational content on digital privacy, safe browsing, and social engineering
-                        prevention.
+                        I started this volunteer work to raise awareness about cybersecurity and contribute to the 
+                        cybersecurity ecosystem. I organized many cybersecurity events and brought cybersecurity 
+                        enthusiasts together.
                       </p>
                     </div>
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
