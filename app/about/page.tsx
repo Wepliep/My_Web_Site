@@ -225,7 +225,10 @@ export default function AboutPage() {
                           <h3 className="font-semibold text-green-300">TurkTelekom Cyber Security Camp 2024</h3>
                         </div>
                       </div>
-
+                      <p className="text-sm text-green-400/70 mt-1">
+                        I had the opportunity to attend the cyber security camp organized by TürkTelekom in 2024. 
+                        In this process, I received trainings specific to many sub-disciplines of cyber security.
+                      </p>
                     </div>
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
                       <div className="flex items-center justify-between mb-2">
