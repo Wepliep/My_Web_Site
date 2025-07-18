@@ -244,10 +244,11 @@ export default function NotePage({ params }: PageProps) {
                               </div>
                             )}
 
+
                             {item.type === "list" && (
                               <ul className="space-y-2 ml-4">
                                 {item.items.map((listItem, listIndex) => (
-                                  <li key={listIndex} className="text-green-400/90 flex items-start">
+                                  <li key={listIndex} className="text-white flex items-start">
                                     <span className="text-green-300 mr-2">•</span>
                                     <span>{listItem}</span>
                                   </li>
