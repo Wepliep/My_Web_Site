@@ -124,12 +124,21 @@ export default function HomePage() {
               <Link href="/notes" className="nav-card group">
                 <div className="flex flex-col items-center justify-center text-center h-full">
                   <div className="mb-4">
-                    <h3 className="text-lg font-semibold mb-2">Knowledge Base</h3>
+                    <h3 className="text-lg font-semibold mb-2">Notes</h3>
                     <p className="text-sm text-green-400/70">Notes & writeups</p>
                   </div>
                   <ChevronRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
                 </div>
               </Link>
+
+              <Link href="/ctf" className="nav-card group">
+                <div className="flex flex-col items-center justify-center text-center h-full">
+                  <div className="mb-4">
+                    <h3 className="text-lg font-semibold mb-2">CTF</h3>
+                    <p className="text-sm text-green-400/70">Capture The Flag challenges</p>
+                  </div>
+                  <ChevronRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+                </div>
 
               <Link href="/htb" className="nav-card group md:col-span-2 lg:col-span-1">
                 <div className="flex flex-col items-center justify-center text-center h-full">
