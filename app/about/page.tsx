@@ -100,7 +100,7 @@ export default function AboutPage() {
                       <span className="text-green-300">Specialization:</span> Web Application Security, Bug Haunter
                     </p>
                     <p>
-                      <span className="text-green-300">Philosophy:</span> "The best defense is understanding the
+                      <span className="text-green-300">E-Mail:</span> "The best defense is understanding the
                       offense"
                     </p>
                   </div>
@@ -121,6 +121,14 @@ export default function AboutPage() {
                         Active bug bounty hunter with multiple CVEs discovered. Specialized in finding and responsibly
                         disclosing security vulnerabilities in web applications and network infrastructure.
                       </p>
+                    </div>
+
+                    <div className="flex items-center space-x-2 text-green-400">
+                      <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
+                          d="M16 12l-4 4-4-4m0-8l4 4 4-4" />
+                        </svg>
+                      <span>asli@example.com</span>
                     </div>
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
                       <div className="flex items-start justify-between mb-2">
