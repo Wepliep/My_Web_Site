@@ -207,9 +207,9 @@ export default function AboutPage() {
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
-                        Organized and facilitated Capture The Flag competitions for local universities and hacker
-                        communities. Created challenging scenarios and provided mentorship to participants learning
-                        ethical hacking.
+                        In this task, I assumed the administration of Fırat University; In 2024, we increased 
+                        Fırat University to 1st place in the HackTheBox National ranking and 59th place in the 
+                        Global ranking.
                       </p>
                     </div>
                   </div>
@@ -238,8 +238,8 @@ export default function AboutPage() {
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
-                        Industry-standard certification covering core cybersecurity skills including network security,
-                        compliance, operational security, threats and vulnerabilities, and cryptography.
+                        I had the opportunity to participate in the WiseCamp training prepared by CyberWise Company 
+                        and received trainings in many areas and established new connections.
                       </p>
                     </div>
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
@@ -252,8 +252,8 @@ export default function AboutPage() {
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
-                        Hands-on penetration testing certification requiring practical exploitation of vulnerable
-                        machines. Demonstrates advanced skills in enumeration, exploitation, and privilege escalation.
+                        I successfully completed the Cyber Security Analyst Program organized by Akbank through 
+                        CISCO and was entitled to receive this certificate in 2021.
                       </p>
                     </div>
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
@@ -266,8 +266,8 @@ export default function AboutPage() {
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
-                        Advanced certification focusing on security architecture, engineering, and management. Currently
-                        preparing for examination with expected completion in Q2 2024.
+                        I successfully completed the Cyber Security Analyst Program organized by Akbank through 
+                        CISCO and was entitled to receive this certificate in 2021.
                       </p>
                     </div>
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
@@ -280,8 +280,8 @@ export default function AboutPage() {
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
-                        Advanced certification focusing on security architecture, engineering, and management. Currently
-                        preparing for examination with expected completion in Q2 2024.
+                        I successfully completed the Cyber Security Analyst Program organized by Akbank through 
+                        CISCO and was entitled to receive this certificate in 2021.
                       </p>
                     </div>
                     <div className="bg-black/30 border border-green-400/30 rounded p-4">
@@ -294,8 +294,8 @@ export default function AboutPage() {
                         </div>
                       </div>
                       <p className="text-sm text-green-400/70 mt-1">
-                        Advanced certification focusing on security architecture, engineering, and management. Currently
-                        preparing for examination with expected completion in Q2 2024.
+                        I successfully completed the Cyber Security Analyst Program organized by Akbank through 
+                        CISCO and was entitled to receive this certificate in 2021.
                       </p>
                     </div>
                   </div>
@@ -305,26 +305,24 @@ export default function AboutPage() {
                   <h2 className="text-xl font-semibold text-green-300">$ ls -la skills/</h2>
                   <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
                     {[
-                      "Python",
-                      "Bash/Shell",
+                      "Node.js",
                       "JavaScript",
-                      "Go",
-                      "C/C++",
+                      "Python",
+                      "OWASP Top 10",
+                      "Postman",
                       "Burp Suite",
                       "Metasploit",
                       "Nmap",
                       "Wireshark",
                       "OWASP ZAP",
-                      "Linux",
-                      "Windows",
+                      "Fedora Linux",
+                      "Parrot Security OS",
                       "Docker",
-                      "AWS",
-                      "GCP",
-                      "OSINT",
-                      "Social Engineering",
+                      "Server Administration",
+                      "MongoDB",
+                      "MySQL",
                       "Cryptography",
                       "Forensics",
-                      "Reverse Engineering",
                     ].map((skill, index) => (
                       <div key={index} className="skill-tag">
                         {skill}
@@ -335,7 +333,7 @@ export default function AboutPage() {
 
                 <div className="mt-8 text-center">
                   <p className="text-green-400/70">
-                    root@wepliep:~/about$ echo "Always learning, always hacking ethically"
+                    root@wepliep:~/about$ echo "Being the best belongs to those who choose to outdo themselves every day."
                   </p>
                 </div>
               </div>
