@@ -217,7 +217,7 @@ export default function NotePage({ params }: PageProps) {
                         {section.content.map((item, itemIndex) => (
                           <div key={itemIndex} className="space-y-3">
                             {item.type === "text" && (
-                              <p className="text-white-400/90 leading-relaxed">{item.content}</p>
+                              <p className="text-white leading-relaxed">{item.content}</p>
                             )}
 
                             {item.type === "code" && (
