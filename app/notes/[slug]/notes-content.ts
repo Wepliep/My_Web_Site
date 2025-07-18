@@ -38,6 +38,11 @@ export const notesContent: Record<string, NoteContent> = {
             content:
               "This information is for educational and authorized testing purposes only. Never attempt SQL injection on systems you don't own or lack explicit permission to test.",
           },
+          {
+            type: "info",
+            content:
+              "This information is for educational and authorized testing purposes only. Never attempt SQL injection on systems you don't own or lack explicit permission to test.",
+          },
         ],
       },
       {
